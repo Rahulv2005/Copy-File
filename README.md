@@ -40,6 +40,8 @@ copy("file1.txt","file2.txt")
 
 ### OUTPUT:
 
+![image](https://github.com/Rahulv2005/Copy-File/assets/152600335/61ba08c8-5da1-4b74-ae55-7e96a18d3df7)
+
 
 
 ## RESULT:
